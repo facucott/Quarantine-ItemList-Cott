@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Quarantine-ItemList-Cott/static/css/main.5852f638.css",
+    "main.js": "/Quarantine-ItemList-Cott/static/js/main.ef05df84.js",
+    "static/media/posterfacu.png": "/Quarantine-ItemList-Cott/static/media/posterfacu.9c893b36881834ce0946.png",
+    "static/media/posterjuan.png": "/Quarantine-ItemList-Cott/static/media/posterjuan.4f456b0ef645c3f0996d.png",
+    "static/media/postergabo.png": "/Quarantine-ItemList-Cott/static/media/postergabo.477bdfd68d7781751f6c.png",
+    "static/media/poster1.png": "/Quarantine-ItemList-Cott/static/media/poster1.1d96657735a979380550.png",
+    "static/media/calco.png": "/Quarantine-ItemList-Cott/static/media/calco.45b7f8da729f14519cdc.png",
+    "static/media/taza.png": "/Quarantine-ItemList-Cott/static/media/taza.670ebd92baceb8d3755a.png",
+    "static/media/cd.png": "/Quarantine-ItemList-Cott/static/media/cd.7336475f4fcf68ef95ea.png",
+    "static/media/vinilo.png": "/Quarantine-ItemList-Cott/static/media/vinilo.1297830bd08c62a9eedf.png",
+    "static/media/remera.png": "/Quarantine-ItemList-Cott/static/media/remera.2c7c2012a8444a473e68.png",
+    "index.html": "/Quarantine-ItemList-Cott/index.html",
+    "main.5852f638.css.map": "/Quarantine-ItemList-Cott/static/css/main.5852f638.css.map",
+    "main.ef05df84.js.map": "/Quarantine-ItemList-Cott/static/js/main.ef05df84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5852f638.css",
+    "static/js/main.ef05df84.js"
+  ]
+}
